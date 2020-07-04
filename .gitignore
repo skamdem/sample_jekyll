@@ -2,7 +2,7 @@
 !.vscode/settings.json
 Gemfile.lock
 package-lock.json
-_site/
+_site/*
 .sass-cache/
 .jekyll-metadata
 jekyll_commands.txt
