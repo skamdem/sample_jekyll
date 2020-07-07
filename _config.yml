@@ -1,4 +1,5 @@
-baseurl: "sample_jekyll"
+baseurl: "/sample_jekyll"
+#baseurl: ""
 collections:
   authors:
     output: true
