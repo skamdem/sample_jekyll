@@ -1,3 +1,4 @@
+baseurl: "sample_jekyll"
 collections:
   authors:
     output: true
